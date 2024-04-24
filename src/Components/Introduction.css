@@ -1,0 +1,48 @@
+.introduction-wrapper {
+    display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+	padding: 75px;
+}
+
+.heading h1 {
+    color: var(--pure-white, #fff);
+	font-family: Inter;
+	font-size: 54px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 161.523%; /* 87.222px */
+	width: 387px;
+	height: 174px;
+}
+
+.vertical-line {
+    width: 1px;
+	height: 206px;
+	background: #6a6a6a;
+}
+
+.intro h3 {
+	color: var(--pure-white, #fff);
+	text-align: center;
+	font-family: Inter;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 162.523%;
+	width: 249px;
+	height: 52px;
+}
+
+.intro p {
+	color: var(--pure-white, #fff);
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 162.523%;
+	width: 475px;
+	height: 87px;
+	opacity: 0.3;
+}

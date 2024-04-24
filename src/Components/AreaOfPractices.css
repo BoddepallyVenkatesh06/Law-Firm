@@ -1,0 +1,44 @@
+.area-wrapper {
+	width: 1135px;
+}
+
+.practices-heading {
+	margin-top: 75px;
+	margin-bottom: 55px;
+}
+
+.practices-heading h1 {
+	color: #fff;
+	font-family: Inter;
+	font-size: 54px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 143.023%;
+	text-align: center;
+}
+
+.grid-item p {
+	text-align: center;
+	color: #fffbf2;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 24px;
+}
+
+.grid-item {
+	position: relative;
+}
+
+.grid-item .small-img {
+	position: absolute;
+	bottom: 30px;
+	left: 80px;
+}
+
+.grid-item .large-img {
+	position: absolute;
+	bottom: 30px;
+	left: 250px;
+}

@@ -1,0 +1,63 @@
+.accordion {
+    padding: 30px;
+}
+
+
+
+.accordion-heading {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 15px;
+}
+
+.accordion-heading h3 {
+	color: #fff;
+	font-family: Inter;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 24px;
+	width: auto;
+	height: 24px;
+}
+
+.accordion-icon-wrapper p {
+    display: flex;
+	width: 28px;
+	height: 28px;
+	flex-shrink: 0;
+	background-color: var(--color-primary);
+	border-radius: 50%;
+	border: 2px solid var(--color-primary);
+    border-radius: 50%;
+    cursor: pointer;
+	color: var(--color-black);
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+
+
+.accordion-answer {
+	margin-bottom: 15px;
+}
+
+.hl {
+    width: 535px;
+	height: 1px;
+	background: #6a6a6a;
+}
+
+.accordion-answer p {
+	color: var(--color-white);
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 20px;
+	width: auto;
+	height: 20px;
+}

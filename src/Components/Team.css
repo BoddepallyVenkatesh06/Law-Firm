@@ -1,0 +1,36 @@
+.team-wrapper {
+	padding-top: 0;
+}
+
+
+
+.team-header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.team-header h3 {
+	color:  #fff;
+	font-family: Inter;
+	font-size: 54px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 143.023%;
+	width: 253px;
+	height: 70px;
+}
+
+.team-grid {
+	display: flex;
+	justify-content: space-evenly;
+	width: 225px;
+	align-items: center;
+}
+
+.team-container {
+	margin: 100px;
+	margin-left: 150px;
+}
+
+
